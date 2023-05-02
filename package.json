@@ -18,6 +18,7 @@
   "author": "Wys2",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^4.1.2",
     "enquirer": "^2.3.6"
   }
 }
