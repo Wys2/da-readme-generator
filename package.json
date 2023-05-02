@@ -1,0 +1,23 @@
+{
+  "name": "da-readme-generator",
+  "version": "1.0.0",
+  "description": "We are developers. Developers are lazy. Coding to avoid doing boring things is already enough work, and now we need to write a github readme so that our project looks cool ? Me not ok with dat >:(",
+  "main": "enough.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Wys2/da-readme-generator"
+  },
+  "keywords": [
+    "readme-generator",
+    "github-readme",
+    "nodejs"
+  ],
+  "author": "Wys2",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
